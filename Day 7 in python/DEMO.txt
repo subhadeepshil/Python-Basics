@@ -1,0 +1,13 @@
+This.
+ . is for demo of IO FIle
+
+ This is Subhadeep.This is a new line.
+This is a new line.
+This is a new line.
+This is another new line 2312.
+This is a new line.
+This is another new line wasdwa.
+
+
+This is a new line.
+This is another new line wasdwa.

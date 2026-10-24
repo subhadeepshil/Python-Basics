@@ -1,0 +1,13 @@
+#Store following word meaning in python dictionary
+# table: "a piece of furniture,""list of facts &figures"
+#cat:"a small animal"
+
+dictionary={"cat":"a small animal",
+            "table":"a piece of furniture, list of facts &figures"}     #we can store different data types in a dictionary {}
+
+
+
+#You're given a list of subjects for students. Assume one classroom is required for 1 subject.How Many classrooms are needed by students?
+
+subjects=["python","java","c++,c"]     #we can store different data types in a list
+print(len(subjects))       #to get the number of classrooms needed we can use the len() function to get the length of the list
